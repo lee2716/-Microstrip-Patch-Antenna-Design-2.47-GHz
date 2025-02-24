@@ -1,0 +1,50 @@
+{
+    "parameters": [
+        {
+            "expr": "100",
+            "name": "x",
+            "value": "100"
+        },
+        {
+            "expr": "1",
+            "name": "hs",
+            "value": "1"
+        },
+        {
+            "expr": "0.035",
+            "name": "t",
+            "value": "0.035"
+        },
+        {
+            "expr": "28.7",
+            "name": "l",
+            "value": "28.7"
+        },
+        {
+            "expr": "1.9",
+            "name": "wf",
+            "value": "1.9"
+        },
+        {
+            "expr": "100",
+            "name": "y",
+            "value": "100"
+        },
+        {
+            "expr": "l",
+            "name": "Wp",
+            "value": "28.7"
+        },
+        {
+            "expr": "2",
+            "name": "wslot",
+            "value": "2"
+        },
+        {
+            "expr": "14.5",
+            "name": "lslot",
+            "value": "14.5"
+        }
+    ],
+    "version": 1
+}
