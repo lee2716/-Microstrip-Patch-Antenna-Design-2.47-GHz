@@ -1,4 +1,4 @@
-# -Microstrip-Patch-Antenna-Design-2.47-GHz
+# Microstrip-Patch-Antenna-Design-2.47-GHz
 
 This repository contains the CST simulation and analysis of a microstrip patch antenna designed for a resonant frequency of 2.47 GHz. The project covers the entire design workflow, including:
 
